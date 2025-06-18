@@ -1,3 +1,4 @@
+
 // DOM Elements
 const productsContainer = document.getElementById("products-container");
 const searchInput = document.getElementById("search-input");
